@@ -11,7 +11,7 @@ let settings = {
     matrixColor2: '#ff1493', // Màu pink mẫu
     sequence: 'FORGIVE|ME|ISTABRAQ|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
-    gift: './image/happy3.gif',
+    gift: './image/giphy.gif',
     enableBook: true,
     pages: [
         // Cover
@@ -351,7 +351,7 @@ function initializeDefaultSettings() {
         matrixColor2: '#ff1493', // Màu pink mẫu
         sequence: 'FORGIVE|ME|ISTABRAQ|❤',
         sequenceColor: '#ff69b4', // Màu pink mẫu
-        gift: './image/happy3.gif',
+        gift: './image/giphy.gif',
         enableBook: true,
         enableHeart: true,
         isSave: false,  
